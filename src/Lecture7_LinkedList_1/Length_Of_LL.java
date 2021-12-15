@@ -2,9 +2,15 @@ package Lecture7_LinkedList_1;
 
 public class Length_Of_LL {
 
-    public static void main(String[] args) {
-
+    public static int length(LinkedListNode<Integer> head){
+        int size =0;
+        while(head != null){
+            head = head.next;
+            size++;
+        }
+        return size;
     }
+
 }
 class LinkedListNode<T> {
     T data;
@@ -12,8 +18,5 @@ class LinkedListNode<T> {
 
     public void Node(T data) {
         this.data = data;
-    }
-    public static void printIthNode(LinkedListNode<Integer> head, int i){
-
     }
 }
