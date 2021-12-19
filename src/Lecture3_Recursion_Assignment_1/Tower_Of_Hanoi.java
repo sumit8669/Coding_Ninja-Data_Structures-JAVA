@@ -1,4 +1,4 @@
-package Lecture3_recursion_Assignment1;
+package Lecture3_Recursion_Assignment_1;
 
 public class Tower_Of_Hanoi {
     public static void towerOfHanoi(int disks, char source, char auxiliary, char destination) {

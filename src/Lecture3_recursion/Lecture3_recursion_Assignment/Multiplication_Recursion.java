@@ -1,4 +1,4 @@
-package Lecture3_recursion_Assignment;
+package Lecture3_recursion.Lecture3_recursion_Assignment;
 
 public class Multiplication_Recursion {
     public static int multiplyTwoIntegers(int m, int n){

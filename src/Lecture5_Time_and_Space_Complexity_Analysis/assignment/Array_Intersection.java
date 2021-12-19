@@ -1,4 +1,4 @@
-package Lecture5_Time_and_Space_Complexity_Analysis;
+package Lecture5_Time_and_Space_Complexity_Analysis.assignment;
 import java.util.Arrays;
 
 public class Array_Intersection {

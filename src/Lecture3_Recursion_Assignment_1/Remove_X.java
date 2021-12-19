@@ -1,4 +1,4 @@
-package Lecture3_recursion_Assignment1;
+package Lecture3_Recursion_Assignment_1;
 
 public class Remove_X {
     public static String removeX(String input){

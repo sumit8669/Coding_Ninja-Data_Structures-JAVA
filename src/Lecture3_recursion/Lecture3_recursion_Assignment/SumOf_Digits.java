@@ -1,4 +1,4 @@
-package Lecture3_recursion_Assignment;
+package Lecture3_recursion.Lecture3_recursion_Assignment;
 
 public class SumOf_Digits {
     public static int sumOfDigits(int input){

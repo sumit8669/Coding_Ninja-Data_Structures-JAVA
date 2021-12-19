@@ -1,4 +1,4 @@
-package Lecture5_Time_and_Space_Complexity_Analysis;
+package Lecture5_Time_and_Space_Complexity_Analysis.assignment;
 
 public class Pair_Sum_In_Array {
     public static void main(String[] args) {

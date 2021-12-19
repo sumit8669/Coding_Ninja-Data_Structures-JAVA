@@ -1,4 +1,4 @@
-package Lecture5_Time_and_Space_Complexity_Analysis;
+package Lecture5_Time_and_Space_Complexity_Analysis.assignment;
 
 public class Find_The_Unique_Element {
     public static int findUnique(int[] arr) {
