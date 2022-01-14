@@ -29,9 +29,9 @@ public class TreeUse {
 	}
 	
 	public static void print(TreeNode<Integer> root) {
-		String s = root.data + ":";
+		StringBuilder s = new StringBuilder(root.data + ":");
 		for (int i = 0; i < root.children.size(); i++) {
-			s = s + root.children.get(i).data + ",";
+			s.append(root.children.get(i).data).append(",");
 		}
 		System.out.println(s);
 		for (int i = 0; i < root.children.size(); i++) {

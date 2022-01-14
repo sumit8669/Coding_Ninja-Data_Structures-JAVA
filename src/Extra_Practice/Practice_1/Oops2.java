@@ -15,7 +15,7 @@ class ThrowsExecp {
             e.printStackTrace();
         }
 //        catch (Exception e) {
-//            System.out.print("caught in main.");
+//            System.out.print("caught in Main.");
 //        }
         System.out.print("All is well");
     }
