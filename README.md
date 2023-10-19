@@ -48,4 +48,4 @@ To get started with the **Coding Ninja DSA Problems Set**, follow these steps:
 1. **Clone this repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/coding-ninja-dsa-problems-set.git
+   git clone https://github.com/sumit8669/Coding_Ninja-Data_Structures-JAVA.git
