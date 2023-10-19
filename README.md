@@ -1,5 +1,4 @@
 # Coding_Ninja-Data_Structures-JAVA
-# Coding Ninja DSA Problems Set
 
 Welcome to the **Coding Ninja DSA Problems Set**! This repository contains a carefully curated collection of data structures and algorithms (DSA) problems to help you **sharpen your programming skills**. Whether you're a beginner looking to improve your coding abilities or an experienced programmer preparing for technical interviews, this set of problems will provide you with the **practice and challenge** you need.
 
