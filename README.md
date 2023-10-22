@@ -39,7 +39,7 @@ The problems in this set are divided into several categories, including but not 
 - **Bit Manipulation**: Problems requiring bit-level manipulation.
 - **Math and Number Theory**: Problems involving mathematical concepts.
 
-Each category contains a variety of problems with different levels of difficulty, so you can choose problems that match your current skill level and gradually progress to more challenging ones.
+Each category contains a variety of problems with different levels of difficulty, so you can choose problems that match your current skill level and gradually progress to more challenging ones
 
 ## Getting Started
 
